@@ -1,5 +1,5 @@
 export GOPATH="$HOME/go"
-export PATH="$PATH:$HOME/miniconda3/bin"
+export PATH="$HOME/miniconda3/bin:$PATH"
 export PATH="$PATH:$GOPATH/bin"
 export PATH="$PATH:$HOME/.dotnet/tools"
 export DOTNET_ROOT="/snap/dotnet-sdk/current"
