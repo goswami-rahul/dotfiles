@@ -2,7 +2,7 @@
 export ZSH="$HOME/.oh-my-zsh"
 
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+ZSH_THEME="robbyrussell_edit"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
 DISABLE_AUTO_UPDATE="true"
