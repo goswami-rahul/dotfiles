@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/rahul/.cabal/store/ghc-8.10.5/QuickCheck-2.14.2-0310f87b3fa1d812ebf7d6346720dfa4a08b0c459e5b4ac945ebad547983538b'
+let g:netrw_dirhist_8='/home/rahul/.cabal/store/ghc-8.10.5'
+let g:netrw_dirhist_7='/home/rahul/.cabal/store/ghc-8.10.5/package.db'
+let g:netrw_dirhist_6='/home/rahul/.cabal/store/ghc-8.10.5'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_3='/home/rahul/.cabal'
+let g:netrw_dirhist_2='/home/rahul/.cabal/store/ghc-8.10.5'
+let g:netrw_dirhist_1='/home/rahul/.cabal/store/ghc-8.10.5/package.db'
